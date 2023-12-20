@@ -8,7 +8,7 @@ from dotenv import load_dotenv
 load_dotenv()
 import openai
 
-openai.api_key = "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"
+openai.api_key = "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"
 
 st.title("Chatbot : ChatGPT and Streamlit Chat Hector")
 st.subheader("AI Tutor:")
